@@ -34,6 +34,11 @@ CONTRASTS = [
              reported=[Reported("text: chi2=1.02", "chi2", "=", 1.02, 2,
                                 ("uncorrected", "corrected")),
                        Reported("text: p=0.312", "p", "=", 0.312, 3)]),
+    # Diagnostic only: the printed percentages (3%, 16%) applied to all 201 pairs, which ignores
+    # the denominators of patients with known status printed in Table 2. Not used for inference.
+    Contrast("strides_ambulation_pct201", "Schoenfeld 2019 (STRIDES)",
+             "Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",
+             201, "operative", "non-operative", 6, 32, role="diagnostic"),
     # Supplementary contrasts from the candidate screen.
     Contrast("mohanty_pill", "Mohanty 2023 (PI-LL)", "Reoperation by 2 years",
              38, "PI-LL <10", "PI-LL >=10", 2, 6,

@@ -319,6 +319,13 @@ hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,counts only,33
 hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,counts + text: chi2=1.02,20,28,48,text: chi2=1.02: corrected,1.0,1.0,1.0,1.0,0.248213,0.312321,0.312327,0.25287
 hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,counts + text: p=0.312,20,28,48,"text: p=0.312: corrected,exact",1.0,1.0,1.0,1.0,0.248213,0.312321,0.312327,0.25287
 hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,counts + all reported,20,28,48,"text: chi2=1.02: corrected; text: p=0.312: corrected,exact",1.0,1.0,1.0,1.0,0.248213,0.312321,0.312327,0.25287
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,counts only,0,26,26,,8.1886,10.799,9.6099,6.56,0.0,1e-06,0.0,0.0
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,counts only,1,27,28,,5.3089,6.2195,5.8852,4.4503,1e-06,2e-06,0.0,0.0
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,counts only,2,28,30,,4.1196,4.6318,4.473,3.5303,2e-06,5e-06,1e-06,0.0
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,counts only,3,29,32,,3.4481,3.7926,3.7004,2.9964,4e-06,1e-05,3e-06,1e-06
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,counts only,4,30,34,,3.0112,3.2662,3.2064,2.6429,8e-06,1.8e-05,6e-06,3e-06
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,counts only,5,31,36,,2.7023,2.9027,2.8612,2.3901,1.5e-05,3.1e-05,1.3e-05,7e-06
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,counts only,6,32,38,,2.4717,2.6356,2.6055,2.1997,2.5e-05,5e-05,2.4e-05,1.4e-05
 mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,supplement,counts only,0,4,4,,1.0,1.2849,1.4784,1.0,0.0455,0.133614,0.125,0.0625
 mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,supplement,counts only,1,5,6,,1.0,1.0,1.0,1.0,0.10247,0.220671,0.21875,0.125
 mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,supplement,counts only,2,6,8,,1.0,1.0,1.0,1.0,0.157299,0.288844,0.289062,0.179688

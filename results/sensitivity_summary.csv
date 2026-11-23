@@ -17,6 +17,7 @@ hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,coun
 hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,counts + text: chi2=1.02,1,20-20,28-28,48-48,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
 hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,counts + text: p=0.312,1,20-20,28-28,48-48,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
 hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,counts + all reported,1,20-20,28-28,48-48,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
+strides_ambulation_pct201,Schoenfeld 2019 (STRIDES),"Non-ambulatory at 6 months, percentages applied to 201 pairs (diagnostic)",diagnostic,201,6,32,counts only,7,0-6,26-32,26-38,2.4717,8.1886,2.6356,10.799,2.6055,9.6099,2.1997,6.56,2.47-8.19
 mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,supplement,38,2,6,counts only,3,0-2,4-6,4-8,1.0,1.0,1.0,1.2849,1.0,1.4784,1.0,1.0,1.00
 mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,supplement,38,2,6,counts + Table 6: p=0.2207,1,1-1,5-5,6-6,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
 bak_ais,Bak 2024,No AIS-grade improvement,supplement,283,124,152,counts only,125,0-124,28-152,28-276,1.0,8.8555,1.0046,11.6671,1.0049,10.3491,1.0,7.1014,1.00-8.86

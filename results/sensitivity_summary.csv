@@ -1,0 +1,27 @@
+cid,study,outcome,role,n_pairs,treated_events,control_events,scenario,n_tables,b_range,c_range,D_range,gamma_exact_0.05_min,gamma_exact_0.05_max,gamma_midp_0.05_min,gamma_midp_0.05_max,gamma_normal_0.05_min,gamma_normal_0.05_max,gamma_exact_0.025_min,gamma_exact_0.025_max,gamma_exact_0.05
+strides_ambulation,Schoenfeld 2019 (STRIDES),Non-ambulatory at 6 months,main,201,4,20,counts only [no location assumption],105,0-4,0-20,0-24,1.0,6.1886,1.0,8.1955,1.0,7.3922,1.0,4.9371,1.00-6.19
+strides_ambulation,Schoenfeld 2019 (STRIDES),Non-ambulatory at 6 months,main,201,4,20,counts + Table 2 and text: p<0.001 [no location assumption],28,0-4,10-20,10-24,1.9256,6.1886,2.1055,8.1955,2.0886,7.3922,1.6749,4.9371,1.93-6.19
+strides_ambulation,Schoenfeld 2019 (STRIDES),Non-ambulatory at 6 months,main,201,4,20,counts only [events in complete pairs],5,0-4,16-20,16-24,1.9256,4.8565,2.1055,6.4607,2.0886,5.9138,1.6749,3.8566,1.93-4.86
+strides_ambulation,Schoenfeld 2019 (STRIDES),Non-ambulatory at 6 months,main,201,4,20,counts + Table 2 and text: p<0.001 [events in complete pairs],5,0-4,16-20,16-24,1.9256,4.8565,2.1055,6.4607,2.0886,5.9138,1.6749,3.8566,1.93-4.86
+strides_mort6,Schoenfeld 2019 (STRIDES),Death by 6 months,main,201,41,59,counts only,42,0-41,18-59,18-100,1.0116,5.5224,1.0305,7.328,1.0316,6.653,1.0,4.3966,1.01-5.52
+strides_mort6,Schoenfeld 2019 (STRIDES),Death by 6 months,main,201,41,59,counts + Table 2: p=0.04,8,24-31,42-49,66-80,1.0602,1.1194,1.0849,1.1511,1.0861,1.1523,1.0,1.0356,1.06-1.12
+strides_mort6,Schoenfeld 2019 (STRIDES),Death by 6 months,main,201,41,59,counts + text: p<0.001,7,0-6,18-24,18-30,1.801,5.5224,1.9303,7.328,1.9196,6.653,1.5929,4.3966,1.80-5.52
+strides_mort6,Schoenfeld 2019 (STRIDES),Death by 6 months,main,201,41,59,counts + all reported,0,,,,,,,,,,,,no compatible table
+strides_mort12,Schoenfeld 2019 (STRIDES),Death by 1 year,main,201,75,102,counts only,76,0-75,27-102,27-177,1.0481,8.5221,1.0593,11.2331,1.0596,9.9795,1.0,6.8307,1.05-8.52
+strides_mort12,Schoenfeld 2019 (STRIDES),Death by 1 year,main,201,75,102,counts + Table 2: p=0.007,4,33-37,60-64,93-101,1.2106,1.2497,1.2335,1.2756,1.2335,1.2753,1.1364,1.1699,1.21-1.25
+strides_mort12,Schoenfeld 2019 (STRIDES),Death by 1 year,main,201,75,102,counts + text: p=0.11,0,,,,,,,,,,,,no compatible table
+strides_mort12,Schoenfeld 2019 (STRIDES),Death by 1 year,main,201,75,102,counts + all reported,0,,,,,,,,,,,,no compatible table
+mohanty_crsvah,Mohanty 2023 (CrSVA-H),Reoperation by 2 years,main,27,2,6,counts only,3,0-2,4-6,4-8,1.0,1.0,1.0,1.2849,1.0,1.4784,1.0,1.0,1.00
+mohanty_crsvah,Mohanty 2023 (CrSVA-H),Reoperation by 2 years,main,27,2,6,counts + Table 7: p=0.0412,0,,,,,,,,,,,,no compatible table
+hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,counts only,34,0-33,8-41,8-74,1.0,2.2016,1.0,2.9983,1.0,2.9569,1.0,1.707,1.00-2.20
+hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,counts + text: chi2=1.02,1,20-20,28-28,48-48,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
+hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,counts + text: p=0.312,1,20-20,28-28,48-48,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
+hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,main,126,33,41,counts + all reported,1,20-20,28-28,48-48,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
+mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,supplement,38,2,6,counts only,3,0-2,4-6,4-8,1.0,1.0,1.0,1.2849,1.0,1.4784,1.0,1.0,1.00
+mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,supplement,38,2,6,counts + Table 6: p=0.2207,1,1-1,5-5,6-6,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
+bak_ais,Bak 2024,No AIS-grade improvement,supplement,283,124,152,counts only,125,0-124,28-152,28-276,1.0,8.8555,1.0046,11.6671,1.0049,10.3491,1.0,7.1014,1.00-8.86
+bak_ais,Bak 2024,No AIS-grade improvement,supplement,283,124,152,counts + Table 2: p=.024,2,58-63,86-91,144-154,1.0903,1.1074,1.1037,1.122,1.104,1.1222,1.0362,1.0505,1.09-1.11
+shultz_transfusion,Shultz 2018,Blood transfusion,supplement,255,1,10,counts only,2,0-1,9-10,9-11,1.7445,2.532,2.1016,3.4299,2.0981,3.3265,1.4226,1.9738,1.74-2.53
+shultz_transfusion,Shultz 2018,Blood transfusion,supplement,255,1,10,counts + text: p=0.007,1,1-1,10-10,11-11,1.7445,1.7445,2.1016,2.1016,2.0981,2.0981,1.4226,1.4226,1.74
+pang_improvement,Pang 2026,No neurological improvement,supplement,167,49,48,counts only,49,1-49,0-48,1-97,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00
+pang_improvement,Pang 2026,No neurological improvement,supplement,167,49,48,counts + abstract: exact p=1.000,49,1-49,0-48,1-97,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.00

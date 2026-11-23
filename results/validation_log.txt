@@ -1,0 +1,25 @@
+[pass] Hammond benchmark (normal): 5.588 vs published 5.59; exact tail 5.473
+[pass] scratch D=24 c=20: library 1.9256, scratch 1.9256
+[pass] scratch D=16 c=16: library 4.8565, scratch 4.8565
+[pass] scratch D=11 c=10: library 1.7445, scratch 1.7445
+[pass] scratch D=100 c=70: library 1.6027, scratch 1.6027
+[pass] scratch D=8 c=6: library 1.0000, scratch 1.0000
+[pass] McNemar uncorrected b=20 c=28: 0.248213 vs statsmodels 0.248213
+[pass] McNemar corrected b=20 c=28: 0.312321 vs statsmodels 0.312321
+[pass] McNemar exact b=20 c=28: 0.312327 vs statsmodels 0.312327
+[pass] McNemar uncorrected b=1 c=10: 0.00665561 vs statsmodels 0.00665561
+[pass] McNemar corrected b=1 c=10: 0.0158613 vs statsmodels 0.0158613
+[pass] McNemar exact b=1 c=10: 0.0117188 vs statsmodels 0.0117188
+[pass] McNemar uncorrected b=3 c=19: 0.000646749 vs statsmodels 0.000646749
+[pass] McNemar corrected b=3 c=19: 0.00138379 vs statsmodels 0.00138379
+[pass] McNemar exact b=3 c=19: 0.000855446 vs statsmodels 0.000855446
+[pass] McNemar uncorrected b=31 c=49: 0.0441713 vs statsmodels 0.0441713
+[pass] McNemar corrected b=31 c=49: 0.0573469 vs statsmodels 0.0573469
+[pass] McNemar exact b=31 c=49: 0.0566644 vs statsmodels 0.0566644
+[pass] McNemar uncorrected b=0 c=4: 0.0455003 vs statsmodels 0.0455003
+[pass] McNemar corrected b=0 c=4: 0.133614 vs statsmodels 0.133614
+[pass] McNemar exact b=0 c=4: 0.125 vs statsmodels 0.125
+[pass] negative control: balanced split gives 1.0
+[pass] monotonicity: 1.00, 1.00, 1.27, 2.01, 3.66, 12.86
+[pass] Hamou reproduction: chi2 1.0208, p 0.3123
+ALL CHECKS PASSED: True

@@ -1,0 +1,15 @@
+{
+  "title": "pairedbounds: hidden-bias sensitivity and consistency checks for matched binary outcomes reported without the paired table",
+  "upload_type": "software",
+  "description": "Code and extracted summary data for recovering Rosenbaum sensitivity values, and checking the internal consistency of reported McNemar results, from published 1:1 matched binary contrasts that do not print the paired 2x2 table. Worked contrasts from neurosurgical and spine studies.",
+  "creators": [
+    {
+      "name": "Lawson McLean, Aaron",
+      "orcid": "0000-0001-5528-6905",
+      "affiliation": "Department of Neurosurgery, Jena University Hospital, Friedrich Schiller University Jena"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["matched observational studies", "McNemar test", "Rosenbaum sensitivity analysis", "unmeasured confounding", "reporting", "neurosurgery"],
+  "version": "1.0.0"
+}

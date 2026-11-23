@@ -1,0 +1,26 @@
+cid,study,doi,quantity,value,location_in_source,direct_or_derived
+strides_ambulation,Schoenfeld 2019,10.1002/cncr.32140,matched pairs,201,Results paragraph 2; Table 1,direct
+strides_ambulation,Schoenfeld 2019,10.1002/cncr.32140,non-ambulatory operative,4 of 154 known (3%),Table 2,direct (denominator = 150 + 4)
+strides_ambulation,Schoenfeld 2019,10.1002/cncr.32140,non-ambulatory non-operative,20 of 125 known (16%),Table 2,direct (denominator = 105 + 20)
+strides_ambulation,Schoenfeld 2019,10.1002/cncr.32140,p-value,<0.001 (McNemar),Table 2; Results paragraph 4,direct
+strides_ambulation,Schoenfeld 2019,10.1002/cncr.32140,lost to follow-up,5 operative; 18 non-operative,Results paragraph 3,direct
+strides_mort6,Schoenfeld 2019,10.1002/cncr.32140,deaths by 6 months,41 operative vs 59 non-operative of 201,Table 2,direct
+strides_mort6,Schoenfeld 2019,10.1002/cncr.32140,p-value (table),0.04,Table 2,direct
+strides_mort6,Schoenfeld 2019,10.1002/cncr.32140,p-value (text),<0.001 (McNemar),Results paragraph 5,direct
+strides_mort12,Schoenfeld 2019,10.1002/cncr.32140,deaths by 1 year,75 operative vs 102 non-operative of 201,Table 2,direct
+strides_mort12,Schoenfeld 2019,10.1002/cncr.32140,p-value (table),0.007,Table 2,direct
+strides_mort12,Schoenfeld 2019,10.1002/cncr.32140,p-value (text),0.11 (McNemar),Results paragraph 5,direct
+mohanty_crsvah,Mohanty 2023,10.3171/2023.4.SPINE23303,matched pairs,27,Abstract; Results,direct
+mohanty_crsvah,Mohanty 2023,10.3171/2023.4.SPINE23303,2-year reoperation,2 aligned vs 6 malaligned of 27,Table 7 (matched columns),direct
+mohanty_crsvah,Mohanty 2023,10.3171/2023.4.SPINE23303,p-value,0.0412 (McNemar),Table 7; Abstract; Results,direct
+hamou_recurrence,Hamou 2026,10.1016/j.bas.2026.106048,matched pairs,126,Results (propensity score matching),direct
+hamou_recurrence,Hamou 2026,10.1016/j.bas.2026.106048,recurrence,33 statin vs 41 no statin of 126,Results (matched cohort),direct
+hamou_recurrence,Hamou 2026,10.1016/j.bas.2026.106048,McNemar statistic,chi2=1.02; p=0.312,Results (matched cohort),direct
+mohanty_pill,Mohanty 2024,10.1007/s43390-023-00766-y,2-year reoperation,2 vs 6 of 38,Table 6 (matched columns),direct
+mohanty_pill,Mohanty 2024,10.1007/s43390-023-00766-y,p-value,0.2207 (McNemar),Table 6; Abstract,direct
+bak_ais,Bak 2024,10.1227/neu.0000000000002642,AIS-grade improvement,159 direct vs 131 transfer of 283,Table 2,direct (no improvement = 124 vs 152)
+bak_ais,Bak 2024,10.1227/neu.0000000000002642,p-value,.024 (McNemar),Table 2,direct
+shultz_transfusion,Shultz 2018,10.1097/BRS.0000000000002337,blood transfusion,1 TDA vs 10 ALIF of 255,Table 2; Results,direct
+shultz_transfusion,Shultz 2018,10.1097/BRS.0000000000002337,p-value,0.007 (McNemar),Table 2; Results,direct
+pang_improvement,Pang 2026,10.1007/s00586-026-10501-6,neurological improvement,118 glucocorticoid vs 119 none of 167,Abstract,direct (no improvement = 49 vs 48)
+pang_improvement,Pang 2026,10.1007/s00586-026-10501-6,p-value,1.000 (exact McNemar),Abstract,direct

@@ -1,0 +1,14 @@
+cid,study,outcome,reported,location_assumption,attainable,n_tables,conventions_reproducing,p_range_uncorrected,p_range_corrected,p_range_exact,p_range_midp,unpaired_p_pearson,unpaired_p_yates,unpaired_p_fisher,unpaired_tests_reproducing
+strides_ambulation,Schoenfeld 2019 (STRIDES),Non-ambulatory at 6 months,Table 2 and text: p<0.001,none,True,28,"corrected,exact,midp,uncorrected",7.744e-06-1,2.152e-05-1,1.907e-06-1,9.537e-07-1,0.0001,0.0002,0.0001,"pearson,yates,fisher"
+strides_ambulation,Schoenfeld 2019 (STRIDES),Non-ambulatory at 6 months,Table 2 and text: p<0.001,events in complete pairs,True,5,"corrected,exact,midp,uncorrected",6.334e-05-0.001091,0.0001768-0.0022,3.052e-05-0.001544,1.526e-05-0.0009105,0.0001,0.0002,0.0001,"pearson,yates,fisher"
+strides_mort6,Schoenfeld 2019 (STRIDES),Death by 6 months,Table 2: p=0.04,,True,8,"corrected,exact,midp,uncorrected",2.209e-05-0.07186,6.151e-05-0.08913,7.629e-06-0.08863,3.815e-06-0.07276,0.0378,0.0498,0.0495,pearson
+strides_mort6,Schoenfeld 2019 (STRIDES),Death by 6 months,text: p<0.001,,True,7,"corrected,exact,midp,uncorrected",2.209e-05-0.07186,6.151e-05-0.08913,7.629e-06-0.08863,3.815e-06-0.07276,0.0378,0.0498,0.0495,
+strides_mort12,Schoenfeld 2019 (STRIDES),Death by 1 year,Table 2: p=0.007,,True,4,"corrected,exact,midp,uncorrected",2.035e-07-0.04241,5.624e-07-0.05067,1.49e-08-0.05036,7.451e-09-0.04269,0.0067,0.009,0.0089,pearson
+strides_mort12,Schoenfeld 2019 (STRIDES),Death by 1 year,text: p=0.11,,False,0,,2.035e-07-0.04241,5.624e-07-0.05067,1.49e-08-0.05036,7.451e-09-0.04269,0.0067,0.009,0.0089,
+mohanty_crsvah,Mohanty 2023 (CrSVA-H),Reoperation by 2 years,Table 7: p=0.0412,,False,0,,0.0455-0.1573,0.1336-0.2888,0.125-0.2891,0.0625-0.1797,0.1255,0.2505,0.2501,
+hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,text: chi2=1.02,,True,1,corrected,0.004678-0.3524,0.01333-0.4158,0.007812-0.416,0.003906-0.3557,0.2685,0.3329,0.333,
+hamou_recurrence,Hamou 2026,Recurrence requiring reoperation,text: p=0.312,,True,1,"corrected,exact",0.004678-0.3524,0.01333-0.4158,0.007812-0.416,0.003906-0.3557,0.2685,0.3329,0.333,
+mohanty_pill,Mohanty 2023 (PI-LL),Reoperation by 2 years,Table 6: p=0.2207,,True,1,corrected,0.0455-0.1573,0.1336-0.2888,0.125-0.2891,0.0625-0.1797,0.1349,0.2622,0.2619,
+bak_ais,Bak 2024,No AIS-grade improvement,Table 2: p=.024,,True,2,"corrected,exact,midp,uncorrected",1.213e-07-0.09191,3.352e-07-0.1041,7.451e-09-0.1039,3.725e-09-0.09232,0.0185,0.0232,0.0231,
+shultz_transfusion,Shultz 2018,Blood transfusion,text: p=0.007,,True,1,uncorrected,0.0027-0.006656,0.007661-0.01586,0.003906-0.01172,0.001953-0.006348,0.0061,0.0147,0.0109,
+pang_improvement,Pang 2026,No neurological improvement,abstract: exact p=1.000,,True,49,exact,0.3173-0.9191,1-1,1-1,0.5-0.9196,0.9041,1.0,1.0,"yates,fisher"

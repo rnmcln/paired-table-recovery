@@ -1,0 +1,8 @@
+pmid,first_author_year,journal,full_text_checked,eligible_1to1_matched_binary_treatment_contrast,decision,reason
+37310045,Mohanty 2023,J Neurosurg Spine,yes,yes,worked contrast (main),"2-year reoperation 2/27 vs 6/27, McNemar p=0.0412; significant matched result with few discordant pairs"
+37819577,Mohanty 2024,Spine Deform,yes,yes,supplementary contrast,"2-year reoperation 2/38 vs 6/38, p=0.2207; null; reported p reproduced only by the continuity-corrected McNemar test"
+37607093,Bak 2024,Neurosurgery,yes,yes,supplementary contrast,"AIS-grade improvement 159/283 vs 131/283, McNemar p=.024; wide count-only bound narrowed by the reported p"
+28723873,Shultz 2018,Spine (Phila Pa 1976),yes,yes,supplementary contrast,"transfusion 1/255 vs 10/255, p=0.007 at a Bonferroni threshold of P<=0.007; one of many secondary adverse-event comparisons"
+43037683,Pang 2026,Eur Spine J,abstract only (no open full text),yes,supplementary contrast,"neurological improvement 118/167 vs 119/167, exact McNemar P=1.000; null"
+40981407,Sevensky 2026,Spine (Phila Pa 1976),yes,no,excluded,"McNemar test applied to alignment categories against an asymptomatic reference cohort; not a treatment contrast"
+42656871,Ostman 2026,Brain Spine,abstract,no,excluded,"porcine model with two treated levels per animal; not a matched observational comparison of patients"
